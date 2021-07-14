@@ -6,11 +6,11 @@ This paper focuses on a variant of the team orienteering arc routing problem (TO
 # Instances
 This instances set includes 15 RTOARPM instances, and each instance (named RTOARPM_m_n) is composed of a node text (named Nodes_m_n.txt) and an arc text (named Arcs_m_n.txt). 
 
-In the node text, the first line reports the number of available vehicles. Lines 2 to the last report the attribute of nodes, including
-NodeID;
-Type: customer/depot;
-Xloc/Yloc: the location on x/y axis.
-For example:
+In the node text, the first line reports the number of available vehicles. Lines 2 to the last report the attribute of nodes, including 
+NodeID; 
+Type: customer/depot; 
+Xloc/Yloc: the location on x/y axis. 
+For example: 
 Number of drone:  3
 NodeID   Type   Xloc   Yloc  
 1   customer   0.0   13.76  
